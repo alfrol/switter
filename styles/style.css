@@ -1,0 +1,10 @@
+body {
+    background-image: url("../background.jpg");
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-attachment: fixed;
+}
+
+.dark {
+    color: #343a40;
+}
